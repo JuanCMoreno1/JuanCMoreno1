@@ -1,4 +1,4 @@
-# 👋 Hii!, I'm Juan Camilo
+# Hiiiii!, I'm Juan Camilo
 
 * Systems Engineering Student (9th semester)  
 * Backend Developer | Data Analysis | Automation  
