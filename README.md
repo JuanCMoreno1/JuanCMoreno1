@@ -1,6 +1,6 @@
 # Hiiiii!, I'm Juan Camilo
 
-* Systems Engineering Student (9th semester)  
+* Systems Engineering Student (10th semester)  
 * Backend Developer | Data Analysis | Automation  
 * Passionate about building scalable systems and data-driven solutions  
 
